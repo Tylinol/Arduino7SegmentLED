@@ -1,0 +1,9 @@
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\PluginNetInterface-x64.dll
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\PluginNetInterface-x86.dll
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\Plugin.cfg
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\ArduinoPlugin.dll
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\ArduinoPlugin.pdb
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\CoreTempPluginProxy.dll
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\bin\Release\CoreTempPluginProxy.xml
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\obj\Release\ArduinoPlugin.dll
+C:\Users\Johnny\AppData\Local\Temporary Projects\ArduinoPlugin\obj\Release\ArduinoPlugin.pdb
